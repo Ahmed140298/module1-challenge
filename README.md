@@ -25,5 +25,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 <img width="1419" alt="Screenshot 2022-11-22 at 14 10 38" src="https://user-images.githubusercontent.com/116595107/203335462-72c78d92-bbab-4c3e-9c3f-03551c73e468.png">
 <img width="1435" alt="Screenshot 2022-11-22 at 14 10 51" src="https://user-images.githubusercontent.com/116595107/203335483-2b2aeacb-58d4-47d3-ab39-f807903e9534.png">
 ### Web page and Repository URLs
+https://ahmed140298.github.io/module1-challenge/
+https://github.com/Ahmed140298/module1-challenge![image](https://user-images.githubusercontent.com/116595107/203336334-cb2c78f4-c131-4265-ba9c-ddb068b61f44.png)
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
